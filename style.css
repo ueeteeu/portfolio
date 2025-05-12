@@ -34,7 +34,17 @@ nav ul li a {
     text-decoration: none;
 }
 
-/* Dark Mode Styles */
+button {
+    padding: 8px 12px;
+    margin-top: 10px;
+    cursor: pointer;
+    background: #555;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+/* Dark Mode */
 .dark-mode {
     --bg-color: #1a1a1a;
     --text-color: #f4f4f4;
